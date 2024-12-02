@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84904807-043c-4bca-b08c-75efc5147915" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_5/InvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_6/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_7/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_8/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_9/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_1/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_10/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_10/MyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_2/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_3/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_4/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_4/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_5/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_5/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_6/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_7/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_7/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_8/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_8/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_9/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_9/MyTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_1/MyComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_2/MyPolynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_3/TestBigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_4/MyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_5/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_6/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_6/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_7/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3_7/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_2/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_3/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_3/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_4/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_4/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_5/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_5/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_5/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_5/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_6/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_1/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_1/LineSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_1/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_1/TestLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_1/TestLineSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_1/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_2/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_2/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_3/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_3/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_4/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_4/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_4/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_5/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_5/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_5/Rasizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_5/RasizableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_6/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_7/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_7/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_7/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_7/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_8/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_8/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_8/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6_8/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7_1/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7_1/DiscountRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7_1/Visit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7_2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai7_2/PolyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai8_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai8_1/MyIntStack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2peyySVCZbRdzg75g9GSzfjKg8d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestBigInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestLine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestLineSub.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestPoint.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IdeaProjects/baitap_Java/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84904807-043c-4bca-b08c-75efc5147915" name="Changes" comment="" />
+      <created>1733141091837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733141091837</updated>
+      <workItem from="1733141092937" duration="61000" />
+      <workItem from="1733141182971" duration="145000" />
+      <workItem from="1733141341204" duration="41000" />
+      <workItem from="1733141405454" duration="84000" />
+      <workItem from="1733141500945" duration="201000" />
+      <workItem from="1733141715558" duration="69000" />
+      <workItem from="1733141810492" duration="73000" />
+      <workItem from="1733141901619" duration="31000" />
+      <workItem from="1733141979921" duration="59000" />
+      <workItem from="1733142060974" duration="29000" />
+      <workItem from="1733142109478" duration="47000" />
+      <workItem from="1733142176192" duration="22000" />
+      <workItem from="1733142921307" duration="121000" />
+      <workItem from="1733143158878" duration="73000" />
+      <workItem from="1733143246554" duration="35000" />
+      <workItem from="1733143292496" duration="44000" />
+      <workItem from="1733143348281" duration="26000" />
+      <workItem from="1733143415599" duration="56000" />
+      <workItem from="1733143482694" duration="46000" />
+      <workItem from="1733143538056" duration="41000" />
+      <workItem from="1733143595878" duration="25000" />
+      <workItem from="1733143632055" duration="25000" />
+      <workItem from="1733143666844" duration="42000" />
+      <workItem from="1733143720978" duration="21000" />
+      <workItem from="1733143750226" duration="21000" />
+      <workItem from="1733143778686" duration="53000" />
+      <workItem from="1733143844346" duration="18000" />
+      <workItem from="1733143870665" duration="27000" />
+      <workItem from="1733143906259" duration="51000" />
+      <workItem from="1733143968194" duration="24000" />
+      <workItem from="1733144001351" duration="23000" />
+      <workItem from="1733144032658" duration="38000" />
+      <workItem from="1733144080940" duration="16000" />
+      <workItem from="1733144105394" duration="18000" />
+      <workItem from="1733144131104" duration="38000" />
+      <workItem from="1733144178178" duration="20000" />
+      <workItem from="1733144205779" duration="44000" />
+      <workItem from="1733144259346" duration="83000" />
+      <workItem from="1733144351030" duration="33000" />
+      <workItem from="1733144391301" duration="50000" />
+      <workItem from="1733144451188" duration="17000" />
+      <workItem from="1733144480005" duration="23000" />
+      <workItem from="1733144512799" duration="41000" />
+      <workItem from="1733144564156" duration="14000" />
+      <workItem from="1733144588741" duration="29000" />
+      <workItem from="1733144626197" duration="41000" />
+      <workItem from="1733144683111" duration="17000" />
+      <workItem from="1733144707527" duration="23000" />
+      <workItem from="1733144748594" duration="62000" />
+      <workItem from="1733144826226" duration="20000" />
+      <workItem from="1733144854076" duration="62000" />
+      <workItem from="1733144927932" duration="29000" />
+      <workItem from="1733144963891" duration="36000" />
+      <workItem from="1733145025574" duration="56000" />
+      <workItem from="1733145089737" duration="24000" />
+      <workItem from="1733145120659" duration="59000" />
+      <workItem from="1733145188606" duration="22000" />
+      <workItem from="1733145218247" duration="45000" />
+      <workItem from="1733145271439" duration="25000" />
+      <workItem from="1733145303496" duration="18000" />
+      <workItem from="1733145329006" duration="43000" />
+      <workItem from="1733145379857" duration="17000" />
+      <workItem from="1733145404194" duration="15000" />
+      <workItem from="1733145425956" duration="37000" />
+      <workItem from="1733145472565" duration="65000" />
+      <workItem from="1733145545242" duration="19000" />
+      <workItem from="1733145573014" duration="39000" />
+      <workItem from="1733145622550" duration="18000" />
+      <workItem from="1733145650729" duration="17000" />
+      <workItem from="1733145677853" duration="17000" />
+      <workItem from="1733145702355" duration="33000" />
+      <workItem from="1733145743002" duration="28000" />
+      <workItem from="1733145778340" duration="16000" />
+      <workItem from="1733145801132" duration="32000" />
+      <workItem from="1733145844662" duration="14000" />
+      <workItem from="1733145871367" duration="23000" />
+      <workItem from="1733145901576" duration="30000" />
+      <workItem from="1733145942984" duration="15000" />
+      <workItem from="1733145965446" duration="15000" />
+      <workItem from="1733145988715" duration="19000" />
+      <workItem from="1733146015774" duration="17000" />
+      <workItem from="1733146043533" duration="36000" />
+      <workItem from="1733146089025" duration="14000" />
+      <workItem from="1733146111083" duration="17000" />
+      <workItem from="1733146135711" duration="12000" />
+      <workItem from="1733146160123" duration="13000" />
+      <workItem from="1733146178637" duration="82000" />
+      <workItem from="1733146282321" duration="21000" />
+      <workItem from="1733146327191" duration="22000" />
+      <workItem from="1733146364459" duration="16000" />
+      <workItem from="1733146388865" duration="12000" />
+      <workItem from="1733146413578" duration="22000" />
+      <workItem from="1733146465560" duration="65000" />
+      <workItem from="1733146541654" duration="23000" />
+      <workItem from="1733146585905" duration="16000" />
+      <workItem from="1733146609425" duration="81000" />
+      <workItem from="1733146707376" duration="17000" />
+      <workItem from="1733146738950" duration="17000" />
+      <workItem from="1733146765226" duration="19000" />
+      <workItem from="1733146793035" duration="19000" />
+      <workItem from="1733146821941" duration="38000" />
+      <workItem from="1733146933237" duration="26000" />
+      <workItem from="1733146967642" duration="32000" />
+      <workItem from="1733147011307" duration="30000" />
+      <workItem from="1733147049741" duration="59000" />
+      <workItem from="1733147122275" duration="21000" />
+      <workItem from="1733147153607" duration="20000" />
+      <workItem from="1733147184075" duration="33000" />
+      <workItem from="1733147228113" duration="20000" />
+      <workItem from="1733147259190" duration="15000" />
+      <workItem from="1733147282506" duration="22000" />
+      <workItem from="1733147310993" duration="68000" />
+      <workItem from="1733147394875" duration="34000" />
+      <workItem from="1733147435963" duration="14000" />
+      <workItem from="1733147459141" duration="31000" />
+      <workItem from="1733147500608" duration="57000" />
+      <workItem from="1733147565062" duration="42000" />
+      <workItem from="1733147617150" duration="21000" />
+      <workItem from="1733147644339" duration="15000" />
+      <workItem from="1733147667214" duration="17000" />
+      <workItem from="1733147692688" duration="14000" />
+      <workItem from="1733147715464" duration="56000" />
+      <workItem from="1733147781837" duration="18000" />
+      <workItem from="1733147806503" duration="14000" />
+      <workItem from="1733147828770" duration="12000" />
+      <workItem from="1733147847820" duration="20000" />
+      <workItem from="1733147877342" duration="41000" />
+      <workItem from="1733147931611" duration="26000" />
+      <workItem from="1733147967461" duration="26000" />
+      <workItem from="1733148003976" duration="24000" />
+      <workItem from="1733148046331" duration="16000" />
+      <workItem from="1733148069034" duration="35000" />
+      <workItem from="1733148111812" duration="21000" />
+      <workItem from="1733148140132" duration="15000" />
+      <workItem from="1733148164338" duration="15000" />
+      <workItem from="1733148188380" duration="18000" />
+      <workItem from="1733148214160" duration="17000" />
+      <workItem from="1733148241496" duration="47000" />
+      <workItem from="1733148297831" duration="17000" />
+      <workItem from="1733148324043" duration="22000" />
+      <workItem from="1733148353515" duration="63000" />
+      <workItem from="1733148427223" duration="25000" />
+      <workItem from="1733148461860" duration="22000" />
+      <workItem from="1733148517596" duration="118000" />
+      <workItem from="1733148643599" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
